@@ -5,7 +5,7 @@
 The project in this repository is an archive of the work submitted for my BSc Computer Science dissertation. To keep the repository lightweight, 
 it omits the large database file needed to re-run the analysis locally, but the code and saved results can still be viewed in the `notebooks/` folder.
 
-I have also included the 10-page project report in `report/`, which walks through the full process and findings - I recommend starting there if you want a quick overview of the project. 
+I have also included the 10-page project report in `report/project_report.pdf`, which walks through the full process and findings - I recommend starting there if you want a quick overview of the project. 
 
 ## Project Overview
 This project analyses 4 weeks of attack data collected from a distributed medium-interaction honeypot network (Cowrie) deployed on AWS. The analysis focuses on attacker geolocation, common credential permutations, and command injection patterns. Please see the project report for further information.
